@@ -6,7 +6,7 @@ design and a solid foundation in web development technologies
 
 ## 🌱 Currently Learning
 
-I currently studying WebDevelopment with Hack Your Future Belgium, and my
+I am currently studying WebDevelopment with Hack Your Future Belgium, and my
 coursework includes:
 
 - Workflows
