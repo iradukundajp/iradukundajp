@@ -14,7 +14,7 @@ coursework includes:
 - HTML and CSS
 - Welcome to JS
 - Inside JS
-- Behavior,Strategy, Implementation
+- Behavior, Strategy, Implementation
 - Separation of Concerns
 - Asynchronous Programming
 - Component Based Design
