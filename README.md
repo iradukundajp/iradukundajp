@@ -53,7 +53,7 @@ I enjoy tackling real-life projects, sharing ideas, and learning in collaborativ
 
 ## 📫 Get in Touch  
 - LinkedIn: [Jean Paul Iradukunda](https://www.linkedin.com/in/iradukunda-jean-paul-459ba413b)  
-- Email: [jeanpauldev00@gmail.com](mailto:ikundajp@gmail.com)  
+- Email: [ikundajp@gmail.com](mailto:ikundajp@gmail.com)  
 
 ---
 
