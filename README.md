@@ -1,38 +1,61 @@
-# Hi there, I'm Jean Paul 👋
+# Hi there, I'm Jean Paul 👋  
 
-I'm a web developer student currently pursuing my passion for creating dynamic
-and user-friendly websites. I am a creative problem solver with a keen eye for
-design and a solid foundation in web development technologies
+🎓 Final-year **Bachelor of Science in International Business Management – Data Science, Protection & Security** (Thomas More University of Applied Sciences, Mechelen).  
+💡   This programme combines **business knowledge with ICT expertise** to train future-proof professionals in **Data Engineering, Analytics, AI, and Cybersecurity**.  
 
-## 🌱 Currently Learning
+I am passionate about using **data to unlock insights and drive smarter business decisions**. My focus lies in **Data Engineering and Analytics**, where I build pipelines, models, and dashboards that turn raw data into value.  
 
-I am currently studying WebDevelopment with Hack Your Future Belgium, and my
-coursework includes:
+---
 
-- Workflows
-- Agile Development
-- HTML and CSS
-- Welcome to JS
-- Inside JS
-- Behavior, Strategy and Implementation
-- Separation of Concerns
-- Asynchronous Programming
-- Component Based Design
+## 🚀 What I Do  
+- **Data Engineering** → PySpark pipelines, Medallion architecture (Raw → Bronze → Silver → Gold), SCD2, surrogate keys, dimensional modeling.  
+- **Data Analytics** → SQL modeling, KPI dashboards, Python data visualization, cohort and revenue analysis.  
+- **Cloud & Tools** → AWS (S3, Glue, Redshift), Azure (Synapse, Data Lake), Databricks, Docker.  
+- **Software Development** → React Native (Expo, TS), Vue + Prisma + MySQL, C# Windows Forms + MySQL.  
 
-## 🤝 Open to Collaborate
+---
 
-I'm always looking for exciting new projects to work on and people to
-collaborate with. If you have any ideas or are interested in working together,
-feel free to reach out to me.
+## 🌱 Currently Learning  
+- **Cloud certifications**:  
+  - AWS Certified Data Engineer – Associate  
+  - Azure Data Engineer Associate (DP-203)  
+  - Databricks Certified Data Engineer Associate  
+- **Applied AI & ML** → predictive modeling, privacy by design, secure AI systems.  
+- **Business integration** → translating business needs into data-driven solutions.  
 
-## 📫 Get in touch
+---
 
-- LinkedIn:
-  [Jean Paul](https://www.linkedin.com/in/iradukunda-jean-paul-459ba413b)
-- Twitter :
-  [twitter](https://twitter.com/jay_march10?s=11&t=r4NcRnTEqjzW9K64tmdsRg)
-- Email: [email](mailto:jeanpauldev00@gmail.com)
+## 📂 Featured Projects  
+- 🏡 **Airbnb Medallion Architecture (PySpark)** → Lakehouse with SCD2, surrogate keys, date dimension, revenue plots.  
+- 🛒 **AdventureWorks Revenue Analytics (SQL + Python)** → KPIs, cohorts, customer segmentation, dashboards.  
+- 🌐 **CampingHub (Vue + Prisma + MySQL)** → Full-stack booking platform with reviews & admin panel.  
+- 🤝 **ShareHub (C# + MySQL)** → Windows Forms app for neighborhood resource sharing.  
+- 🎨 **TATU (React Native, Expo, TS)** → Tattoo artist booking & messaging app prototype.  
 
-## 📈 GitHub Stats
+👉 Explore all repos here: [GitHub Portfolio](https://github.com/iradukundajp)  
 
-![Jean Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=iradukundajp&show_icons=true&theme=radical)
+---
+
+## 🎯 Career Goals  
+- Data Engineer
+- Data Scientist
+- Data Analyst  
+- Business Intelligence Consultant  
+- Cybersecurity Advisor (Privacy by Design, AI security)  
+
+---
+
+## 🤝 Open to Collaborate  
+I am currently looking for **internships in Data Engineering / Analytics** in Belgium or remote.  
+I enjoy tackling real-life projects, sharing ideas, and learning in collaborative environments.  
+
+---
+
+## 📫 Get in Touch  
+- LinkedIn: [Jean Paul Iradukunda](https://www.linkedin.com/in/iradukunda-jean-paul-459ba413b)  
+- Email: [jeanpauldev00@gmail.com](mailto:jeanpauldev00@gmail.com)  
+
+---
+
+## 📈 GitHub Stats  
+![Jean Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=iradukundajp&show_icons=true&theme=radical)  
