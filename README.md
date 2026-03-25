@@ -18,7 +18,7 @@ I am passionate about using **data to unlock insights and drive smarter business
 ## 🌱 Currently Learning  
 - **Cloud certifications**:  
   - AWS Certified Data Engineer – Associate  
-  - Azure Data Engineer Associate (DP-203)  
+  - Azure Data Engineer Associate  
   - Databricks Certified Data Engineer Associate  
 - **Applied AI & ML** → predictive modeling, privacy by design, secure AI systems.  
 - **Business integration** → translating business needs into data-driven solutions.  
